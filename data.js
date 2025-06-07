@@ -1,0 +1,86 @@
+export const listedMoters = [
+  {
+    image:
+      "https://www.autovista.in/assets/product_images/gallery/new-maruti-dzire-side.jpg",
+    price: 500000,
+    registeredYear: 2019,
+    fuelType: "petrol",
+    totalRunning: 20000,
+    motorType: "car",
+    motorBrand: "Maruti",
+    motorName: "Dzire",
+    location: "Satna",
+  },
+  {
+    image:
+      "https://images.livemint.com/img/2020/02/20/600x338/hyundai-i20-2021---fotos-vazadas_(3)_1582018912930_1582181092871.jpg",
+    price: 450000,
+    registeredYear: 2018,
+    fuelType: "diesel",
+    totalRunning: 30000,
+    motorType: "car",
+    motorBrand: "Hyundai",
+    motorName: "i20",
+    location: "Rewa",
+  },
+  {
+    image:
+      "https://static.businessworld.in/WhatsApp%20Image%202025-01-12%20at%202.37.05%20PM_20250112143730_original_image_15.webp",
+    price: 650000,
+    registeredYear: 2020,
+    fuelType: "petrol",
+    totalRunning: 15000,
+    motorType: "car",
+    motorBrand: "Honda",
+    motorName: "Amaze",
+    location: "Satna",
+  },
+  {
+    image:
+      "https://www.financialexpress.com/wp-content/uploads/2024/09/Tata-Nexon-CNG.jpg",
+    price: 700000,
+    registeredYear: 2021,
+    fuelType: "diesel",
+    totalRunning: 10000,
+    motorType: "car",
+    motorBrand: "Tata",
+    motorName: "Nexon",
+    location: "Satna",
+  },
+  {
+    image:
+      "https://ik.imagekit.io/girnar/sayaratbay/large/gallery/exterior/12/116/ford-figo-front-angle-low-view-149450.jpg",
+    price: 350000,
+    registeredYear: 2016,
+    fuelType: "petrol",
+    totalRunning: 50000,
+    motorType: "car",
+    motorBrand: "Ford",
+    motorName: "Figo",
+    location: "Sidhi",
+  },
+  {
+    image:
+      "https://images.livemint.com/img/2022/03/14/600x338/renault_1647250219105_1647250228902.webp",
+    price: 550000,
+    registeredYear: 2020,
+    fuelType: "petrol",
+    totalRunning: 22000,
+    motorType: "car",
+    motorBrand: "Renault",
+    motorName: "Kwid",
+    location: "Rewa",
+  },
+  {
+    image:
+      "https://www.surfindia.com/automobile/images/automobile/marutiwagonor.jpg",
+    price: 600000,
+    registeredYear: 2021,
+    fuelType: "CNG",
+    totalRunning: 12000,
+    motorType: "car",
+    motorBrand: "Maruti",
+    motorName: "WagonR",
+    location: "Jabalpur",
+  },
+];
