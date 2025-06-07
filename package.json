@@ -1,0 +1,23 @@
+{
+  "name": "motor-bazaar-backend",
+  "version": "1.0.0",
+  "description": "Motor bazaar backend ",
+  "homepage": "https://github.com/cmrsl/motor-bazaar-backend#readme",
+  "bugs": {
+    "url": "https://github.com/cmrsl/motor-bazaar-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmrsl/motor-bazaar-backend.git"
+  },
+  "license": "ISC",
+  "author": "Vijay Kumar Kushwaha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
